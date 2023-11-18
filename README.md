@@ -2,6 +2,8 @@
 The code is for the assignment "Developing breathing-based vital signs detection models and control algorithms to improve sleep quality" <br>
 
 # Sensors
+`MCU` : STM32F765VI <br>
+`Bluetooth` : E104-BT5005A <br>
 `Pressure Sensor` : LPS22HHTR <br>
 `Microphone` : SPH0645LM4H-1-8 <br>
 `IMU Sensor` : LSM6DSMTR <br>
