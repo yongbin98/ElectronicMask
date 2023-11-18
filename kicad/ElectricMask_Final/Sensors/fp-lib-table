@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "User_library")(type "KiCad")(uri "C:/Users/AW_Lab_LYB/Documents/STM32/E_MASK_PROTO/kicad/ElectricMask/Libraries/User_library.pretty")(options "")(descr ""))
+)
