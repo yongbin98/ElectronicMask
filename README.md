@@ -1,7 +1,7 @@
 # ElectronicMask
 The code is for the assignment "Developing breathing-based vital signs detection models and control algorithms to improve sleep quality" <br>
 
-# Used Sensor
+# Sensors
 `Pressure Sensor` : LPS22HHTR <br>
 `Microphone` : SPH0645LM4H-1-8 <br>
 `IMU Sensor` : LSM6DSMTR <br>
